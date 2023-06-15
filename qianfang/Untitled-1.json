@@ -1,0 +1,315 @@
+{
+    "success": true,
+    "result": {
+        "item": {
+            "priceStr": "",
+            "price": null,
+            "lowPrice": 10500,
+            "highPrice": 10500,
+            "lowVipPrice": null,
+            "highVipPrice": null,
+            "lowPlatformPrice": 10700,
+            "highPlatformPrice": 10700,
+            "lowDirectPurchasePrice": null,
+            "highDirectPurchasePrice": null,
+            "id": 1538965674577944,
+            "itemCode": "",
+            "categoryId": 5074,
+            "categoryName": "其它纸",
+            "spuId": null,
+            "shopId": 894368304304132,
+            "shopName": "安徽兆路科技有限公司",
+            "name": "兆路 得力 7783 辉铂 70g A4 复印纸 其它纸",
+            "mainImage": "https://itemcdn.zcycdn.com/8400056209/897a2631-53d1-447b-9b2d-86308b9751d7.jpg",
+            "status": 1,
+            "stockType": 0,
+            "stockQuantity": 999,
+            "saleQuantity": 0,
+            "onShelfAt": 1685262302000,
+            "reduceStockType": 1,
+            "extra": {
+                "firm": "得力",
+                "ZCY_PRODUCT_ID": "1493901179854913",
+                "unit": "包",
+                "selfPlatformLink": "https://item.jd.com/100016302772.html",
+                "ALL_STANDARD_STATUS": "[1]",
+                "weight": "11.7kg",
+                "IS_STANDARD": "1",
+                "IS_STANDARD_TIME": "1685262305266"
+            },
+            "origin": {
+                "cityName": "浙江省",
+                "regionId": "330000",
+                "regionName": "浙江省",
+                "limit": "0",
+                "cityId": "330000",
+                "countryName": "中国",
+                "provinceName": "浙江省",
+                "provinceId": "330000",
+                "countryId": "1"
+            },
+            "tags": {
+                "ITEM_PLATFORM": "1"
+            },
+            "tagNames": [],
+            "itemInfoMd5": "42e2bce86c9b6a1ad01ab94b859f9012",
+            "source": null,
+            "layer": 128,
+            "channelItemId": 1538965673185734,
+            "agreementId": 1451000000018928,
+            "createdAt": 1685262302000,
+            "updatedAt": 1685262303000,
+            "keyAttrsBrief": "82541:兆路;82542:7783;",
+            "brandId": 1711492,
+            "brandName": "兆路",
+            "specification": "7783",
+            "instanceCode": "AHWC",
+            "itemInstanceCode": "AHWC",
+            "itemInstanceShortName": "安徽网超",
+            "itemSource": 1,
+            "shopFlagName": "安徽兆路科技有限公司",
+            "priceLabel": 1,
+            "unitConvert": null,
+            "priceIncludeStandardPart": null,
+            "bidId": 80
+        },
+        "itemPartInfo": null,
+        "groupedSkuAttrs": [
+            {
+                "attrKey": "颜色分类",
+                "skuAttributes": [
+                    {
+                        "propertyId": 77586,
+                        "attrKey": "颜色分类",
+                        "attrVal": "白",
+                        "unit": null,
+                        "showImage": false,
+                        "thumbnail": null,
+                        "image": null
+                    }
+                ]
+            }
+        ],
+        "groupedSkuLadderPrices": [],
+        "skus": [
+            {
+                "extraPriceJson": null,
+                "extraPrice": null,
+                "fullPriceJson": "{\"marketPrice\":10700,\"channelPrice\":10500,\"agreementPrice\":10500,\"discount\":9813,\"platformPrice\":10700}",
+                "fullPrice": {
+                    "agreementPrice": 10500,
+                    "discount": 9813,
+                    "marketPrice": 10700,
+                    "channelPrice": 10500,
+                    "platformPrice": 10700
+                },
+                "price": 10500,
+                "vipPrice": null,
+                "activityPrice": null,
+                "directPurchasePrice": null,
+                "usePrice": null,
+                "protocolActivityType": null,
+                "priceWithoutPromotion": 10500,
+                "ladderPrice": [],
+                "promotionInfo": null,
+                "protocolActivity": null,
+                "id": 1538965674578250,
+                "skuCode": null,
+                "itemId": 1538965674577944,
+                "shopId": 894368304304132,
+                "status": 1,
+                "specification": null,
+                "outerSkuId": null,
+                "outerShopId": null,
+                "image": null,
+                "thumbnail": null,
+                "name": null,
+                "layer": 128,
+                "channelSkuId": 1538965673182353,
+                "attrs": [
+                    {
+                        "propertyId": null,
+                        "attrKey": "颜色分类",
+                        "attrVal": "白",
+                        "unit": null,
+                        "showImage": null,
+                        "thumbnail": null,
+                        "image": null
+                    }
+                ],
+                "attrsJson": "[{\"attrKey\":\"颜色分类\",\"attrVal\":\"白\"}]",
+                "stockType": 0,
+                "stockQuantity": 999,
+                "createdAt": 1685262302000,
+                "updatedAt": 1685262305000,
+                "instanceCode": "AHWC",
+                "concessionRate": 1.87,
+                "discountRate": 98.13,
+                "hasComposeSuit": false,
+                "priceDescription": null
+            }
+        ],
+        "imageInfos": [
+            {
+                "name": null,
+                "url": "https://itemcdn.zcycdn.com/8400056209/fd39a0a2-1160-441e-abc5-684a32f90020.jpg"
+            },
+            {
+                "name": null,
+                "url": "https://itemcdn.zcycdn.com/8400056209/f9ddadfb-39e3-4cd0-8049-8c7309b9e286.jpg"
+            },
+            {
+                "name": null,
+                "url": "https://itemcdn.zcycdn.com/8400056209/b2acf0b9-3060-4420-accd-e2b58dccbd07.jpg"
+            },
+            {
+                "name": null,
+                "url": "https://itemcdn.zcycdn.com/8400056209/64f9a28a-7ac5-4767-9e6b-c66c2091c289.jpg"
+            }
+        ],
+        "showGpCatalog": true,
+        "gpCatalog": [],
+        "pplanMust": false,
+        "categoryTags": [],
+        "itemDetail": {
+            "itemId": 1538965674577944,
+            "images": [
+                {
+                    "name": null,
+                    "url": "https://itemcdn.zcycdn.com/8400056209/fd39a0a2-1160-441e-abc5-684a32f90020.jpg"
+                },
+                {
+                    "name": null,
+                    "url": "https://itemcdn.zcycdn.com/8400056209/f9ddadfb-39e3-4cd0-8049-8c7309b9e286.jpg"
+                },
+                {
+                    "name": null,
+                    "url": "https://itemcdn.zcycdn.com/8400056209/b2acf0b9-3060-4420-accd-e2b58dccbd07.jpg"
+                },
+                {
+                    "name": null,
+                    "url": "https://itemcdn.zcycdn.com/8400056209/64f9a28a-7ac5-4767-9e6b-c66c2091c289.jpg"
+                }
+            ],
+            "imagesJson": "[{\"url\":\"https://itemcdn.zcycdn.com/8400056209/fd39a0a2-1160-441e-abc5-684a32f90020.jpg\"},{\"url\":\"https://itemcdn.zcycdn.com/8400056209/f9ddadfb-39e3-4cd0-8049-8c7309b9e286.jpg\"},{\"url\":\"https://itemcdn.zcycdn.com/8400056209/b2acf0b9-3060-4420-accd-e2b58dccbd07.jpg\"},{\"url\":\"https://itemcdn.zcycdn.com/8400056209/64f9a28a-7ac5-4767-9e6b-c66c2091c289.jpg\"}]",
+            "packing": null,
+            "packingJson": null,
+            "service": null,
+            "detail": "<ul class=\"p-parameter-list list-paddingleft-2\" style=\"list-style-type:none;\">\n <li><p>品牌：&nbsp;得力（deli）</p></li>\n <li><p>商品名称：得力7783</p></li>\n <li><p>商品编号：100016302772</p></li>\n <li><p>商品毛重：</p></li>\n <li><p>商品产地：中国大陆</p></li>\n <li><p>货号：7783</p></li>\n <li><p>规格尺寸：A4</p></li>\n <li><p>克重g/㎡：70g</p></li>\n <li><p>颜色：白色</p></li>\n <li><p><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/20d34a94-01c4-4318-b44d-489353a81ae4\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/05edfbe0-28d9-47d4-8fac-626b267c86d0\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/d2d92b4b-0598-42db-8aae-faec4f4b1f27\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/8eb0a552-3959-47c6-82f3-f5594b224c65\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/4c7031da-b79e-4eba-a7f1-1127fb878e30\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/4b7cdfd5-9aa9-4c94-a696-2251cf8e52f1\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/6e2a6fbe-1b91-42f1-aadc-e8b808bed5dc\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/da38378f-96cc-40cc-845b-adc0b39bf797\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/307cf98b-9a7f-41df-b6f6-a44f636f1b7b\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/5c97e4db-8463-4af4-b6ca-d6a9bfe04a21\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/a1ae075f-ec4d-418e-86cc-3552001e2699\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/05c25dfe-ebd9-43b6-b5d4-653ad3584bd7\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/615de92d-1836-491d-a540-be73869640b5\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/809bb582-ae85-4cbc-b7ae-3220d5ef902f\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/aae7e3d6-739e-43ab-82d3-165bc0b2f8b5\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/5c60873c-4e2a-411a-9b39-799c4a7cfa40\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/24883d81-aca2-4fdf-9a8f-6dc1a044967c\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/625ba575-4e3d-43c3-b743-206c6d0af26b\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/9b5a9786-320c-4ad3-83ac-d160a28e7257\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/49655120-0e96-4ce6-a8a7-c5906d8ed71f\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/5bace1be-bd15-4b4e-9baa-1cd4db6ec3b0\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/03ea021f-d095-4108-8593-8f3c1cecc4da\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/353fd8c0-3efd-46ff-aeb9-39c14b33ee9c\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/70e52472-ad96-46db-bad1-b30b253f3fa2\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/86120f94-98a4-4e03-97e0-1015c0b10e43\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/d91a01ab-643b-4952-9eaf-721273c6c444\" width=\"750\"><img src=\"https://sitecdn.zcycdn.com/1062CM/349900/10008390391/20235/8318d08f-e503-49cc-ba5d-f70b59bcc88b\" width=\"750\"></p></li>\n <li><p><br></p></li>\n</ul>\n<p><br></p>含技术服务，关键技术支持，本次订单不支持退货，请详细确认规格需求，如有疑问请咨询客服确认下单",
+            "createdAt": 1685262302000,
+            "updatedAt": 1685262302000
+        },
+        "hasParam": true,
+        "itemDetailMark": {
+            "itemId": 1538965674577944,
+            "isEnergySave": null,
+            "isEnvironProtect": null,
+            "isWaterSave": null,
+            "isPZBZJZZ": null,
+            "isZJMPCP": null,
+            "isLZH": null,
+            "isZJCKMP": null,
+            "isSTT": null,
+            "isJCCP": null,
+            "isPrivate": null,
+            "isFactory": null,
+            "isCompany": null,
+            "isDealer": null,
+            "isMiddleSmallEnter": null,
+            "isNoStockItem": null,
+            "isServiceItem": null,
+            "isNeedSupplierItem": null
+        },
+        "allowSale": true,
+        "buttonHiddenReason": null,
+        "isNet": null,
+        "energyCode": 0,
+        "environCode": 0,
+        "assetLimitTag": false,
+        "purchaserCount": null,
+        "serviceItemId": null,
+        "serviceItem": null,
+        "unit": "包",
+        "discount": null,
+        "fixType": null,
+        "fixTypeName": null,
+        "transferDTO": {
+            "industryCode": "002",
+            "industryId": 50898,
+            "industryName": "网上超市",
+            "industryShortName": "网上超市",
+            "instanceCode": "AHWC",
+            "instanceId": 253,
+            "instanceName": "安徽网上超市",
+            "platformLevel": 0,
+            "domain": "mall.anhui.zcygov.cn",
+            "appDomain": "m.anhui.zcygov.cn",
+            "limitPurchase": 0,
+            "tagList": [
+                1
+            ],
+            "applicationTags": [
+                2
+            ]
+        },
+        "itemStandardVOs": [],
+        "branchCompanyVO": null,
+        "itemTagsVO": {
+            "serviceItem": false,
+            "noStockItem": false,
+            "partItem": false,
+            "needSupplierItem": false,
+            "hasPart": false,
+            "hasConfirmPrice": false
+        },
+        "simpleRichTextVOList": [],
+        "showPrice": true,
+        "priceLoginVisible": true,
+        "visibleConfig": {
+            "priceLoginUsersVisible": false,
+            "priceLoginSupplierIsVisible": false,
+            "existSeparateSellPart": false,
+            "existCategoryQualification": false,
+            "showAgreementEndDate_ON": false
+        },
+        "showSale": true,
+        "showHighPrice": null,
+        "showLowPrice": null,
+        "hasLimitNumber": false,
+        "limitNumber": null,
+        "remainingQty": null,
+        "extDTO": {
+            "id": 6329536,
+            "itemId": 1538965674577944,
+            "itemCode": null,
+            "itemPrice": 0,
+            "marketPrice": null,
+            "itemPriceYuan": "0.00",
+            "itemPriceUnit": "元",
+            "itemPriceDesc": "费率",
+            "protocolCategoryId": 0,
+            "saleNumControl": 0,
+            "oversaleNum": 0,
+            "barCode": "",
+            "creatorId": 10009874431,
+            "updatorId": null
+        },
+        "flexibleLabels": [],
+        "unitShowFlag": true,
+        "hasSelfPickup": false,
+        "tabMenuSort": [
+            "custom",
+            "itemDetails",
+            "specificationParameter",
+            "userEvaluation",
+            "orderRecord",
+            "accessoryType",
+            "supplier",
+            "servicePromise",
+            "qualification"
+        ],
+        "tagDetails": []
+    },
+    "code": null,
+    "message": null
+}
