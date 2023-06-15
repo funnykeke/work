@@ -6,6 +6,8 @@ import re
 import requests
 import time
 
+from selenium import webdriver
+
 
 def print_category_path_by_category_id(category_id):
     with open("first_level_category.json", "r", encoding="utf-8") as a:
@@ -49,13 +51,18 @@ class HuiCai:
             }
         )
 
+    def login(self):
+        driver = webdriver.Edge()
+        driver.get('https://login.anhui.zcygov.cn/user-login/')
+        input('登陆完成后请按换行：')
+        cookie_txt = driver.get_cookies()
+        with open('cookie.txt', 'w', encoding='utf-8') as co:
+            co.write(json.dumps(cookie_txt))
+
     # 初始化cookie
     def init_cookie(self):
-        try:
-            with open('cookie.txt', 'r', encoding='utf-8') as co:
-                cookie_list = json.loads(co.read())
-        except:
-            raise Exception("请核对cookie.txt中信息是否填写正确！")
+        with open('cookie.txt', 'r', encoding='utf-8') as co:
+            cookie_list = json.loads(co.read())
         cookie_txt = ''
         for co in cookie_list:
             cookie_txt += co['name']
@@ -83,7 +90,9 @@ class HuiCai:
                 '&needTitle=true&needInstitution=true').text)['data']['institutionName']
             print(f'{institution_name}-欢迎您!\n')
         except:
-            raise Exception('身份信息已过期，请更新cookie.txt中信息~')
+            print('登陆过期，请在弹出的页面中重新登陆~')
+            self.login()
+            self.init_cookie()
 
     # 初始化类中的item_id(借鉴商品id)，并打印所在三级目录，默认获取第一件商品的。并初始化商品信息
     def init_category_path_by_model(self, index=0):
@@ -257,12 +266,13 @@ class HuiCai:
                 }).content
                 files = {'file': (f'{index}.jpg', image_content, "image/jpeg")}
                 response = session.post(
-                    f'https://www.anhui.zcygov.cn/api/micro/file/upload?folderId={str(self.folder_id)}', files=files).text
+                    f'https://www.anhui.zcygov.cn/api/micro/file/upload?folderId={str(self.folder_id)}',
+                    files=files).text
                 if 'Error' not in response:
-                    print(f'第{index+1}张预览图上传成功')
+                    print(f'第{index + 1}张预览图上传成功')
                     time.sleep(0.5)
                 else:
-                    print(f'第{index+1}张预览图上传失败')
+                    print(f'第{index + 1}张预览图上传失败')
         except:
             raise Exception("预览图上传失败")
 
