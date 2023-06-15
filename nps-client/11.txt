@@ -1,1 +1,0 @@
-./npc install -server=124.70.205.201:9898 -vkey=sn8muqfdhguzo4zq -type=tcp
